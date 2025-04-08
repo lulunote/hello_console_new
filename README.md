@@ -1,3 +1,3 @@
 A sample command-line application with an entrypoint in `bin/`, library code
 in `lib/`, and example unit test in `test/`.
-https://lulunote.github.io/hello_console_new/
+![alt text](https___lulunote.github.io_hello_console_new_.png)
